@@ -1,0 +1,21 @@
+FULL
+		pygame.draw.polygon(screen, "blue", [(10, 60), (35, 50), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(53,35), (63, 10), (195, 10), (155,120)])
+
+LAST HEALTH 
+		pygame.draw.polygon(screen, "blue", [(10, 174), (125, 130), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(140,109), (177, 10), (195, 10), (155,120)])
+
+LAST SEOND HEALTH
+		pygame.draw.polygon(screen, "blue", [(10, 150), (105, 113), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(123,95), (155, 10), (195, 10), (155,120)])
+LAST THRID HEALTH
+		pygame.draw.polygon(screen, "blue", [(10, 118), (79, 90), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(99,74), (125, 10), (195, 10), (155,120)])
+LAST FOURTH HEALTH 
+		pygame.draw.polygon(screen, "blue", [(10, 88), (56, 70), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(71,52), (88, 10), (195, 10), (155,120)])
+
+SECOND HEATH
+		pygame.draw.polygon(screen, "blue", [(10, 75), (45, 60), (137, 141), (10, 190)])
+		pygame.draw.polygon(screen, "red", [(62, 44), (76, 10), (195, 10), (155,120)])
